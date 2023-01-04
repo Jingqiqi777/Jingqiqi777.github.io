@@ -24,7 +24,7 @@ Work experience
 * Mar 2022 - Aug 2022: Research Intern
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
-  * Supervisor: Dr. [Le Lu](https://lelu007.github.io), Dr. [Dakai Jin](https://dakjin.github.io/), Dr. [Puyang Wang] (https://scholar.google.com/citations?hl=en&user=56aDx7AAAAAJ)
+  * Supervisor: Dr. [Le Lu](https://lelu007.github.io), Dr. [Dakai Jin](https://dakjin.github.io/), Dr. [Puyang Wang](https://scholar.google.com/citations?hl=en&user=56aDx7AAAAAJ)
 
 * Dec 2018 - Mar 2022: Research Assistant
   * Xiamen University
