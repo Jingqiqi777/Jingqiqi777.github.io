@@ -19,7 +19,7 @@ Work experience
 * Aug 2022 - Nov 2022: Visiting Student
   * Johns Hopkins University, University of California Santa Cruz
   * Research: MAE pre-training with multi-view mechanism in medical image.
-  * Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof.[Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie] (https://cihangxie.github.io/)
+  * Supervisor: Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof.[Yuyin Zhou](https://yuyinzhou.github.io/), Prof. [Cihang Xie](https://cihangxie.github.io/)
 
 * Mar 2022 - Aug 2022: Research Intern
   * Alibaba DAMO Academy
