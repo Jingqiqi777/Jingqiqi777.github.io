@@ -16,4 +16,4 @@ My research focuses on computer vision, self-supervised learning, medical image 
 
 My background and history
 ======
-I am working on my Master Degree at University of Illinois at Urbana-Champaign (UIUC) and received my Bachelor Degree from Xiamen University.
+I am working on my Master Degree at University of Illinois at Urbana-Champaign (UIUC) and I received my Bachelor Degree from Xiamen University.
