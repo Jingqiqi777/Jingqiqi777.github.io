@@ -46,7 +46,7 @@ Work experience
 
 Publications
 ======
-Conference Papers:
+**Conference Papers:**
 
 **2022**
 * [C1] **Zihan Li**, Dihan Li, Cangbai Xu, Weice Wang, Qingqi Hong, Qingde Li, Jie Tian. TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation. International Conference on Artificial Neural Networks. Springer, Cham, 2022. [Oral](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_65)
@@ -58,7 +58,7 @@ Conference Papers:
 * [C7] Dandan Shan\*, **Zihan Li\***, Wentao Chen, Qingde Li, Jie Tian, Qingqi Hong. Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment. ICASSP 2023 [Submission].
 * [C8] Fei Xu, **Zihan Li**, Qingqi Hong, Qingqiang Wu, Qingde Li, Jie Tian. SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer. Asia Pacific Bioinformatics Conference 2023 [Submission].
 
-Journal Papers:
+**Journal Papers:**
 
 **2022**
 * [J1] Fei Xu, Lingli Lin, **Zihan Li**, Qingqi Hong, Kunhong Liu, Qingqiang Wu, Qingde Li, Yinhuan Zheng, Jie Tian. (2022). MRDFF: A Deep Forest Based Framework for CT Whole Heart Segmentation. Methods. (IF: 4.65) [Paper](https://www.sciencedirect.com/science/article/pii/S1046202322002286)
