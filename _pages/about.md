@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zihan, an Master student from the Department of Computer Science in the University of Illinois at Urbana-Champaign (UIUC). I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for internal tissues and organs of the human body by combining deep learning with medical images.
+Hi! I’m Zihan, a Master student from the Department of Computer Science in the University of Illinois at Urbana-Champaign (UIUC). I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for internal tissues and organs of the human body by combining deep learning with medical images.
 
 My work and research
 ======
