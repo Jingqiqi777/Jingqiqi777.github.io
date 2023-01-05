@@ -46,10 +46,12 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Conference Papers:
+* \[C1\] **Zihan Li**, Dihan Li, Cangbai Xu, Weice Wang, Qingqi Hong, Qingde Li, Jie Tian. TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation. International Conference on Artificial Neural Networks. Springer, Cham, 2022. [Oral](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_65)
+* \[C2\] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. CVPR 2023 [Submission].
+
+Journal Papers:
+
 <!--Talks
 ======
   <ul>{% for post in site.talks %}
