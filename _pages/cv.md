@@ -47,6 +47,7 @@ Work experience
 Publications
 ======
 Conference Papers:
+
 **2022**
 * [C1] **Zihan Li**, Dihan Li, Cangbai Xu, Weice Wang, Qingqi Hong, Qingde Li, Jie Tian. TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation. International Conference on Artificial Neural Networks. Springer, Cham, 2022. [Oral](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_65)
 * [C2] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. CVPR 2023 [Submission].
@@ -58,6 +59,7 @@ Conference Papers:
 * [C8] Fei Xu, **Zihan Li**, Qingqi Hong, Qingqiang Wu, Qingde Li, Jie Tian. SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer. Asia Pacific Bioinformatics Conference 2023 [Submission].
 
 Journal Papers:
+
 **2022**
 * [J1] Fei Xu, Lingli Lin, **Zihan Li**, Qingqi Hong, Kunhong Liu, Qingqiang Wu, Qingde Li, Yinhuan Zheng, Jie Tian. (2022). MRDFF: A Deep Forest Based Framework for CT Whole Heart Segmentation. Methods. (IF: 4.65) [Paper](https://www.sciencedirect.com/science/article/pii/S1046202322002286)
 * [J2] **Zihan Li**, Yunxiang Li, Qingde Li, Puyang Wang, Dazhou Guo, Le Lu, Dakai Jin, et al. LViT: language meets vision transformer in medical image segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Major Revision] [Paper](https://arxiv.org/abs/2206.14718)
