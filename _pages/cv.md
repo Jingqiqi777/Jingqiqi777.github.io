@@ -52,7 +52,7 @@ Conference Papers:
 * [C3] Yiqing Wang\*, **Zihan Li\***, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. CVPR 2023 [Submission].
 * [C4] Shuzhou Yang, Moxuan Ding, **Zihan Li**, Jian Zhang. CAT-NeR: Cooperative Adversarial \& Text-driven Low-light Image Enhancement with Implicit Neural Representation. CVPR 2023 [Submission].
 * [C5] Qingqi Hong, Chuanfeng Yang, Jiahui Chen, **Zihan Li**, Qingqiang Wu, Qingde Li. NeuFG: Neural fuzzy geometric representation for Multi-View Reconstruction. CVPR 2023 [Submission].
-* [C6] Zihan Li, Dandan Shan, Yuan Zheng, Qingqi Hong, Qingqiang Wu. MTNet: Multi-scale Text-aware Network for COVID-19 Segmentation. ICASSP 2023 [Submission].
+* [C6] **Zihan Li**, Dandan Shan, Yuan Zheng, Qingqi Hong, Qingqiang Wu. MTNet: Multi-scale Text-aware Network for COVID-19 Segmentation. ICASSP 2023 [Submission].
 * [C7] Dandan Shan\*, **Zihan Li\***, Wentao Chen, Qingde Li, Jie Tian, Qingqi Hong. Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment. ICASSP 2023 [Submission].
 * [C8] Fei Xu, **Zihan Li**, Qingqi Hong, Qingqiang Wu, Qingde Li, Jie Tian. SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer. Asia Pacific Bioinformatics Conference 2023 [Submission].
 
