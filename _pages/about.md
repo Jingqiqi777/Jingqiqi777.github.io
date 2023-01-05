@@ -10,9 +10,9 @@ redirect_from:
 
 Hi! I’m Zihan, a Master student from the Department of Computer Science in the University of Illinois at Urbana-Champaign (UIUC). I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for internal tissues and organs of the human body by combining deep learning with medical images.
 
-Recent News
+<!--Recent News
 ======
-* I will join Prof.Xu's lab ([Xu lab](https://xulabs.github.io/)) at [CMU School of Computer Science](https://www.cs.cmu.edu/) as visiting student in the spring of 2023.
+* I will join Prof.Xu's lab ([Xu lab](https://xulabs.github.io/)) at [CMU School of Computer Science](https://www.cs.cmu.edu/) as visiting student in the spring of 2023.-->
 
 My work and research
 ======
