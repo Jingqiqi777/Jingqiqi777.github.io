@@ -14,7 +14,7 @@ Email: zl111@illinois.edu. Last updated: Jan 4, 2023
 Education
 ======
 * Bachelor in Software Engineering, Xiamen University, 2018-2022
-* Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-2023
+* Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-present
 
 Work experience
 ======
