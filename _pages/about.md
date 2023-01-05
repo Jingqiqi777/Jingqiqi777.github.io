@@ -12,7 +12,7 @@ Hi! I’m Zihan, a Master student from the Department of Computer Science in the
 
 Recent News
 ======
-I will join Prof.Xu's lab ([Xu lab](https://xulabs.github.io/)) at CMU School of Computer Science as visiting student in the spring of 2023.
+* I will join Prof.Xu's lab ([Xu lab](https://xulabs.github.io/)) at [CMU School of Computer Science](https://www.cs.cmu.edu/) as visiting student in the spring of 2023.
 
 My work and research
 ======
