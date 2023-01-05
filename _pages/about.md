@@ -18,4 +18,4 @@ My background and history
 ======
 I am working on my Master Degree at University of Illinois at Urbana-Champaign (UIUC) and I received my Bachelor Degree from Xiamen University.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DehnrpsSubNlclQFqnnzF8TkFv_bDzoRJ1-b0exj-Pc&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=upmXbXnNXcHG93dNQSaEeA-QWfIoIc0MhdJhI9oRRcE&cl=ffffff&w=a"></script>
