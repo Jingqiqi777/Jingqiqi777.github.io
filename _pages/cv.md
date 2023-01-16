@@ -67,9 +67,9 @@ Publications
 * [J4] Qingqi Hong, Lingli Lin, **Zihan Li**, et al. A distance transformation deep forest framework with hybrid-feature fusion for CXR image classification. IEEE Transactions on Neural Networks and Learning Systems. (IF: 14.255) [Minor Revision]
 
 **Papers in Pending:**
-* [P1] **Zihan Li**... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation.
-* [P2] **Zihan Li**... ScribbleVL: Scribble Medical Image  Segmentation with Vision-Language Interaction.
-* [P3] **Zihan Li**... Can More Tasks Compensate for Fewer Labels in Medical Image Segmentation?
+* [P1] **Zihan Li**, ... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation.
+* [P2] **Zihan Li**, ... ScribbleVL: Scribble Medical Image  Segmentation with Vision-Language Interaction.
+* [P3] **Zihan Li**, ... Can More Tasks Compensate for Fewer Labels in Medical Image Segmentation?
 
 Honors and Awards
 ======
