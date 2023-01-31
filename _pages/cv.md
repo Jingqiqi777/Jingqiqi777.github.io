@@ -69,8 +69,8 @@ Publications
 **Papers in Pending:**
 * [P1] **Zihan Li**, ... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation.
 * [P2] **Zihan Li**, ... ScribbleVL: Scribble Medical Image  Segmentation with Vision-Language Interaction.
-* [P3] **Zihan Li**, ... Can More Tasks Compensate for Fewer Labels in Medical Image Segmentation?
-* [P4] **Zihan Li**, ... Semi-supervised Multi-branch Hierarchical Network Based on Position Invariance.
+<!-- * [P3] **Zihan Li**, ... Can More Tasks Compensate for Fewer Labels in Medical Image Segmentation? -->
+* [P3] **Zihan Li**, ... Semi-supervised Multi-branch Hierarchical Network Based on Position Invariance.
 
 Honors and Awards
 ======
@@ -94,5 +94,5 @@ Teaching
 Service and leadership
 ======
 * Regular Conference Reviewer: ICASSP 2023, AAAI 2022, ACM MM 2022
-* Regular Journal Reviewer: Machine Vision And Applications (MVAP)
+* Regular Journal Reviewer: IEEE Transactions on Medical Imaging, Machine Vision And Applications
 * Guest Speaker: Study Abroad Foundation (SAF), MIT Blended Learning Program
