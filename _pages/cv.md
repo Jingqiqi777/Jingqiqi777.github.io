@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Email: zl111@illinois.edu. Last updated: Jan 16, 2023
-
 Education
 ======
 * Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-present
