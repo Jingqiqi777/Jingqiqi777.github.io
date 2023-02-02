@@ -41,6 +41,12 @@ Work experience
   * Research: Automatic segmentation and detection model for pulmonary infection in X-ray images.
   * Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Dr. [Tudor Suciu](https://www.linkedin.com/in/tudor-suciu/)
 
+Service and leadership
+======
+* Regular Conference Reviewer: ICASSP 2023, AAAI 2022, ACM MM 2022
+* Regular Journal Reviewer: IEEE Transactions on Medical Imaging, Machine Vision And Applications
+* Guest Speaker: Study Abroad Foundation (SAF), MIT Blended Learning Program
+
 Honors and Awards
 ======
 * National Scholarship of China (1%) 2020, 2021
@@ -59,9 +65,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
-  
-Service and leadership
-======
-* Regular Conference Reviewer: ICASSP 2023, AAAI 2022, ACM MM 2022
-* Regular Journal Reviewer: IEEE Transactions on Medical Imaging, Machine Vision And Applications
-* Guest Speaker: Study Abroad Foundation (SAF), MIT Blended Learning Program
