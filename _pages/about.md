@@ -12,7 +12,7 @@ Hi! I’m Zihan, a Master student from the Department of Computer Science in the
 
 Recent News
 ======
-* [January 2023] One paper *SemiCTrans* is accepted by APBC 2023.
+* [January 2023] One paper *"SemiCTrans"* is accepted by APBC 2023.
 
 My work and research
 ======
