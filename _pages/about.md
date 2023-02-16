@@ -12,6 +12,7 @@ Hi! I’m Zihan, a Master student from the Department of Computer Science in the
 
 Recent News
 ======
+* [February 2023] One paper *"Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment“* is accepted by ICASSP 2023.
 * [January 2023] One paper *"SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer"* is accepted by APBC 2023.
 
 My work and research
