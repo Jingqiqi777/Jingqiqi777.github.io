@@ -35,7 +35,7 @@ Work experience
   * Research: Hybrid attention mechanism and mix-focal loss improvement.
   * Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ), Dr. [Hongliang He](https://scholar.google.com.hk/citations?hl=en&user=jJWS4VYAAAAJ)
 
-* May 2021 - Sept 2021: Research Intern
+* Aug 2020 - Nov 200: Research Intern
   * University of Cambridge
   * Research: Automatic segmentation and detection model for pulmonary infection in X-ray images.
   * Supervisor: Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Dr. [Tudor Suciu](https://www.linkedin.com/in/tudor-suciu/)
