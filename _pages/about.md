@@ -25,13 +25,14 @@ I am working on my Master Degree at University of Illinois at Urbana-Champaign (
 
 <div align="center">
     <div align="center">
-        This Site Already Has 
+        This Site Already Has  
             <small><a href="https://www.easycounter.com/">
             <img src="https://www.easycounter.com/counter.php?zl111"
-            border="0" alt="stats counter"></a></small>
+            border="0" alt="stats counter"></a></small> 
          Visitors
     </div>
 
+  
     <div align="center" style="width:20%">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=upmXbXnNXcHG93dNQSaEeA-QWfIoIc0MhdJhI9oRRcE"></script>
     </div>
