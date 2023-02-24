@@ -18,7 +18,7 @@ Recent News
 
 My work and research
 ======
-My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
+My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
 
 My background and history
 ======
