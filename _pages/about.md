@@ -13,7 +13,7 @@ Hi! I’m Zihan, a Master student from the Department of Computer Science in the
 Recent News
 ======
 * <font color="red">[February 2023]</font> Nominated as the winner of Conference Presentation Awards for Graduate Students by UIUC CS department!
-* <font color="red">[February 2023]</font> Congrats to Dandan! One paper *"Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment“* is accepted by ICASSP 2023. Paper and [Code](https://github.com/HUANGLIZI/C2FVL) are coming soon!
+* <font color="red">[February 2023]</font> Congrats to Dandan! One paper *"Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment“* is accepted by ICASSP 2023 [Paper](https://arxiv.org/abs/2303.00279) and [Code](https://github.com/HUANGLIZI/C2FVL).
 * <font color="red">[January 2023]</font> One paper *"SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer"* is accepted by APBC 2023.
 
 My work and research
