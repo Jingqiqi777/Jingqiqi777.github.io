@@ -5,9 +5,8 @@ author_profile: true
 ---
 <!-- title: "Publications" -->
 {% include base_path %}
-
+You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ}}">my Google Scholar profile</a>.</u>
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 **2023**
