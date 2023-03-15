@@ -23,10 +23,10 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 **Papers in Submission**
 * [C1] **Zihan Li**, Dandan Shan, Yuan Zheng, Qingqi Hong, Qingqiang Wu. MTNet: Multi-scale Text-aware Network for COVID-19 Segmentation. MICCAI 2023 [Submission].
 * [C2] Yiqing Wang\*, **Zihan Li\***, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. MICCAI 2023 [Submission].
-* [C3] Yuehui Qiu, **Zihan Li**, Yining Wang, Pei Dong, Dijia Wu, Qingqi Hong, Dinggang Shen. CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography. MICCAI 2023 [Submission].
-* [C4] Shuzhou Yang, Moxuan Ding, **Zihan Li**, Jian Zhang. CAT-NeR: Cooperative Adversarial & Text-driven Low-light Image Enhancement with Implicit Neural Representation. ICCV 2023 [Submission].
+* [C3] Yuehui Qiu\*, **Zihan Li\***, Yining Wang, Pei Dong, Dijia Wu, Qingqi Hong, Dinggang Shen. CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography. MICCAI 2023 [Submission].
+* [C4] Shuzhou Yang, Moxuan Ding, Yanmin Wu, **Zihan Li**, Jian Zhang. CAT-NeR: Cooperative Adversarial & Text-driven Low-light Image Enhancement with Implicit Neural Representation. ICCV 2023 [Submission].
 * [C5] Qingqi Hong, Chuanfeng Yang, Jiahui Chen, **Zihan Li**, Qingqiang Wu, Qingde Li. NeuFG: Neural fuzzy geometric representation for Multi-View Reconstruction. ACM MM 2023 [Submission].
-* [J1] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Neural Networks and Learning Systems. (IF: 14.255) [Submission].
+* [J1] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Submission].
 
 **Papers in Pending:**
 * [P1] **Zihan Li**, ... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation.
