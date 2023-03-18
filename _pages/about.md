@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle. And I will receive my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
+Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle. And I will receive my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
+
+My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
 Recent News
 ======
