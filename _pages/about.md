@@ -20,7 +20,7 @@ Recent News
 
 My work and research
 ======
-My current works focus on the multimodal learning of images and language, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI for Underrepresentation in medical field. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
+My current works focus on the multimodal learning, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI for Underrepresentation in medical field. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
 
 My background and history
 ======
