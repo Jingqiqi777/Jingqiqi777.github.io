@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle. And I will receive my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for internal tissues and organs of the human body by combining deep learning with medical images.
+Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle. And I will receive my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
 Recent News
 ======
@@ -18,7 +18,7 @@ Recent News
 
 My work and research
 ======
-My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
+My current works focus on the multimodal learning of images and language, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI for Underrepresentation in medical field. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
 
 My background and history
 ======
