@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zihan, an incoming Ph.D. student of [University of Washington](https://www.washington.edu/) in Seattle. And I received the Master degree from the [Department of Computer Science](https://cs.illinois.edu/) in the University of Illinois at Urbana-Champaign (UIUC). I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for internal tissues and organs of the human body by combining deep learning with medical images.
+Hi! I’m Zihan, an incoming Ph.D. student of [University of Washington](https://www.washington.edu/) in Seattle. And I will receive the Master degree from the [Department of Computer Science](https://cs.illinois.edu/) in the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/). I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for internal tissues and organs of the human body by combining deep learning with medical images.
 
 Recent News
 ======
@@ -22,7 +22,7 @@ My research focuses on computer vision, self-supervised learning, medical image 
 
 My background and history
 ======
-I am pursuing my Ph.D. degree from University of Washington and I received my Master Degree from University of Illinois at Urbana-Champaign (UIUC) and Bachelor Degree from Xiamen University.
+I am pursuing my Ph.D. degree from University of Washington and I will receive my Master Degree from University of Illinois at Urbana-Champaign (UIUC) and received Bachelor Degree from Xiamen University.
 
 <div align="center">
     <div align="center">
