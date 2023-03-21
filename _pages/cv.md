@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Bioengineering: Data Science, University of Washington, 2023-present
+<!-- * Ph.D. in Bioengineering: Data Science, University of Washington, 2023-present -->
 * Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-2023
 * Bachelor in Software Engineering, Xiamen University, 2018-2022
 
