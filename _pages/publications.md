@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 * [C1] **Zihan Li**, Dandan Shan, Yuan Zheng, Qingqi Hong, Qingqiang Wu. MTNet: Multi-scale Text-aware Network for COVID-19 Segmentation. MICCAI 2023 [Submission].
 * [C2] Yiqing Wang\*, **Zihan Li\***, Zihao Wei, Jieru Mei, Li Liu, Chen Wang, Alan Yuille, Shengtian Sang, Cihang Xie, Yuyin Zhou. SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation. MICCAI 2023 [Submission].
 * [C3] Yuehui Qiu\*, **Zihan Li\***, Yining Wang, Pei Dong, Dijia Wu, Qingqi Hong, Dinggang Shen. CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography. MICCAI 2023 [Submission].
-* [C4] Shuzhou Yang, Moxuan Ding, Yanmin Wu, **Zihan Li**, Jian Zhang. CAT-NeR: Cooperative Adversarial & Text-driven Low-light Image Enhancement with Implicit Neural Representation. ICCV 2023 [Submission].
+* [C4] Shuzhou Yang, Moxuan Ding, Yanmin Wu, **Zihan Li**, Jian Zhang. Implicit Neural Representation for Cooperative Low-light Image Enhancement. ICCV 2023 [Submission].
 * [C5] Qingqi Hong, Chuanfeng Yang, Jiahui Chen, **Zihan Li**, Qingqiang Wu, Qingde Li. NeuFG: Neural fuzzy geometric representation for Multi-View Reconstruction. ACM MM 2023 [Submission].
 * [C6] **Zihan Li**, Yuan Zheng, Xiangde Luo, Qingqi Hong. ScribbleVL: Scribble Medical Image  Segmentation with Vision-Language Interaction. ACM MM 2023 [Submission].
 * [C7] **Zihan Li**, Dandan Shan, Yunxiang Li, Qingqi Hong. Semi-supervised Multi-branch Hierarchical Network Based on Scale Invariance. ACM MM 2023 [Submission].
