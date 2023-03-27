@@ -28,7 +28,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 * [C5] Qingqi Hong, Chuanfeng Yang, Jiahui Chen, **Zihan Li**, Qingqiang Wu, Qingde Li. NeuFG: Neural fuzzy geometric representation for Multi-View Reconstruction. ACM MM 2023 [Submission].
 * [C6] **Zihan Li**, Yuan Zheng, Xiangde Luo, Qingqi Hong. ScribbleVL: Scribble Medical Image  Segmentation with Vision-Language Interaction. ACM MM 2023 [Submission].
 * [C7] **Zihan Li**, Dandan Shan, Yunxiang Li, Qingqi Hong. Semi-supervised Multi-branch Hierarchical Network Based on Scale Invariance. ACM MM 2023 [Submission].
-* [J1] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Submission].
+* [J1] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Submission].
 
 **Papers in Pending:**
 * [P1] **Zihan Li**, ... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation.
