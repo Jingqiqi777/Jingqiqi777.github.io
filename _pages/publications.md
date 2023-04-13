@@ -31,7 +31,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 * [J1] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Submission].
 
 **Papers in Pending:**
-* [P1] **Zihan Li**, ... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation.
+* [P1] **Zihan Li**, ... CAL: Cross Auxiliary Learning for Imbalanced Semi-supervised Semantic Segmentation. [Pending]
 * [P2] Yunxiang Li, **Zihan Li**, Kai Zhang, Ruilong Dan, You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. [Pending](https://arxiv.org/abs/2303.14070)
-* [P3] **Zihan Li**, ... PromptDiff: Rethinking Stable Diffusion from Images to Prompts. 
+* [P3] **Zihan Li**, ... PromptDiff: Rethinking Stable Diffusion from Images to Prompts. [Pending]
 <!-- * [P3] **Zihan Li**, ... Can More Tasks Compensate for Fewer Labels in Medical Image Segmentation? -->
