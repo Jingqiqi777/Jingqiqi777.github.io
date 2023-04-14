@@ -26,7 +26,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 * [C3] Yuehui Qiu\*, **Zihan Li\***, Yining Wang, Pei Dong, Dijia Wu, Qingqi Hong, Dinggang Shen. CorSegRec: A Topology-Preserving Scheme for Extracting Fully-Connected Coronary Arteries from CT Angiography. MICCAI 2023 [Submission].
 * [C4] Shuzhou Yang, Moxuan Ding, Yanmin Wu, **Zihan Li**, Jian Zhang. Implicit Neural Representation for Cooperative Low-light Image Enhancement. ICCV 2023 [Submission].
 * [C5] Qingqi Hong, Chuanfeng Yang, Jiahui Chen, **Zihan Li**, Qingqiang Wu, Qingde Li. NeuFG: Neural fuzzy geometric representation for Multi-View Reconstruction. ACM MM 2023 [Submission].
-* [C6] **Zihan Li**, Yuan Zheng, Xiangde Luo, Qingqi Hong. ScribbleVL: Scribble Medical Image  Segmentation with Vision-Language Interaction. ACM MM 2023 [Submission].
+* [C6] **Zihan Li**, Yuan Zheng, Xiangde Luo, Qingqi Hong. ScribbleVC: Scribble-supervised Medical Image Segmentation with Vision-Class Embedding. ACM MM 2023 [Submission].
 * [C7] **Zihan Li**, Dandan Shan, Yunxiang Li, Qingqi Hong. Semi-supervised Dual-branch Hierarchical Network Based on Scale Invariance. ACM MM 2023 [Submission].
 * [J1] Yuan Zheng\*, **Zihan Li\***, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Submission].
 
