@@ -44,7 +44,7 @@ Service and leadership
 
 Honors and Awards
 ======
-* UIUC Conference Presentation Award for Graduate Students 2023
+* UIUC Conference Presentation Award 2023
 * National Scholarship of China (1%) 2020, 2021
 * Pacemaker to Merit Student of Xiamen University (1%) 2020
 * NongXin scholarship of Xiamen University (2%) 2020
