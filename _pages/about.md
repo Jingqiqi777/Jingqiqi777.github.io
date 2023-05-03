@@ -14,7 +14,7 @@ My research focuses on computer vision, self-supervised learning, medical image 
 
 Recent News
 ======
-* <font color="red">[February 2023]</font> Nominated as the winner of Conference Presentation Awards for Graduate Students by UIUC CS department!
+* <font color="red">[May 2023]</font> Awarded the Conference Presentation Awards for Graduate Students by UIUC!
 * <font color="red">[February 2023]</font> Congrats to Dandan! One paper *"Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment“* is accepted by ICASSP 2023 [Paper](https://arxiv.org/abs/2303.00279) and [Code](https://github.com/HUANGLIZI/C2FVL).
 * <font color="red">[January 2023]</font> One paper *"SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer"* is accepted by APBC 2023 [Oral].
 
