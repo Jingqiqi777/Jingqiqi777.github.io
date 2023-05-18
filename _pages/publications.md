@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 * [C2] Dandan Shan\*, **Zihan Li\***, Wentao Chen, Qingde Li, Jie Tian, Qingqi Hong. Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment. ICASSP 2023. [Paper](https://arxiv.org/abs/2303.00279)
 * [J1] **Zihan Li**, Yunxiang Li, Qingde Li, Puyang Wang, Dazhou Guo, Le Lu, Dakai Jin, et al. LViT: language meets vision transformer in medical image segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Major Revision] [Paper](https://arxiv.org/abs/2206.14718)
 * [J2] **Zihan Li**, Wentao Chen, et al. Semi-WTC: A Practical Semi-supervised Framework for Attack Categorization through Weight-Task Consistency. IEEE Transactions on Dependable and Secure Computing. (IF: 7.329) [Major Revision] [Paper](https://arxiv.org/abs/2205.09669)
-* [J3] Qingqi Hong, Lingli Lin, **Zihan Li**, et al. A distance transformation deep forest framework with hybrid-feature fusion for CXR image classification. IEEE Transactions on Neural Networks and Learning Systems. (IF: 14.255) [Minor Revision]
+* [J3] Qingqi Hong, Lingli Lin, **Zihan Li**, et al. A distance transformation deep forest framework with hybrid-feature fusion for CXR image classification. IEEE Transactions on Neural Networks and Learning Systems. (IF: 14.255)
 
 **2022**
 * [C1] **Zihan Li**, Dihan Li, Cangbai Xu, Weice Wang, Qingqi Hong, Qingde Li, Jie Tian. TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation. International Conference on Artificial Neural Networks. Springer, Cham, 2022. [Oral](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_65)
