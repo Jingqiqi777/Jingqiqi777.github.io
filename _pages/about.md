@@ -14,8 +14,8 @@ My research focuses on computer vision, self-supervised learning, medical image 
 
 Recent News
 ======
-* <font color="red">[May 2023]</font> Two papers are early accepted by MICCAI 2023!
-* <font color="red">[May 2023]</font> One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1)!
+* <font color="red">[May 2023]</font> Two papers are early accepted by MICCAI 2023.
+* <font color="red">[May 2023]</font> One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
 * <font color="red">[May 2023]</font> Awarded the Conference Presentation Award for Graduate Students by UIUC!
 * <font color="red">[February 2023]</font> Congrats to Dandan! One paper *"Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment“* is accepted by ICASSP 2023 [Paper](https://arxiv.org/abs/2303.00279) and [Code](https://github.com/HUANGLIZI/C2FVL).
 
