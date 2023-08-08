@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D. in Bioengineering: Data Science, University of Washington, 2023-present -->
+* Ph.D. in Bioengineering: Data Science, University of Washington, 2023-present
 * Master in Computer Science, University of Illinois at Urbana-Champaign, 2022-2023
 * Bachelor in Software Engineering, Xiamen University, 2018-2022
 
@@ -23,10 +23,6 @@ Work experience
 * Mar 2022 - Aug 2022: Research Intern. Supervisor: Dr. [Le Lu](https://lelu007.github.io), Dr. [Dakai Jin](https://dakjin.github.io/), Dr. [Puyang Wang](https://scholar.google.com/citations?hl=en&user=56aDx7AAAAAJ)
   * Alibaba DAMO Academy
   * Research: Multi-modality radiotherapy target volume segmentation and organ segmentation.
-
-* Dec 2018 - Mar 2022: Research Assistant. Supervisor: Prof. [Qingqi Hong](https://scholar.google.com.hk/citations?hl=EN&user=ZlCw0sQAAAAJ)
-  * Xiamen University
-  * Research: Medical image analysis and medical image reconstruction.
   
 * May 2021 - Sept 2021: Research Intern. Supervisor: Prof. [Jie Chen](https://scholar.google.com.hk/citations?hl=EN&user=ZAZFfwwAAAAJ), Dr. [Hongliang He](https://scholar.google.com.hk/citations?hl=en&user=jJWS4VYAAAAJ)
   * Peking University
