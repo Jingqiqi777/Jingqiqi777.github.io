@@ -19,8 +19,8 @@ Recent News
 * <font color="red">[June 2023]</font> Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging(TMI).
 * <font color="red">[May 2023]</font> We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
 * <font color="red">[May 2023]</font> Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are early accepted by MICCAI 2023.
-* <font color="red">[May 2023]</font> One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
-* <font color="red">[May 2023]</font> Awarded the Conference Presentation Award for Graduate Students by UIUC!
+* [May 2023] One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
+* [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
 * [February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by ICASSP 2023.
 
 My work and research
