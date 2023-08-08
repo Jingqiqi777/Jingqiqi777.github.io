@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle. And I will receive my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
+Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle. And I received my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
 
 My research focuses on computer vision, self-supervised learning, medical image analysis, and vision-language model. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
 Recent News
 ======
-* <font color="red">[May 2023]</font> Two papers are early accepted by MICCAI 2023.
+* <font color="red">[Aug 2023]</font> Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by ACM MM 2023.
+* <font color="red">[July 2023]</font> One papers is accepted by ICCV 2023.
+* <font color="red">[June 2023]</font> Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging(TMI).
+* <font color="red">[May 2023]</font> We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
+* <font color="red">[May 2023]</font> Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are early accepted by MICCAI 2023.
 * <font color="red">[May 2023]</font> One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
 * <font color="red">[May 2023]</font> Awarded the Conference Presentation Award for Graduate Students by UIUC!
-* <font color="red">[February 2023]</font> Congrats to Dandan! One paper *"Coarse-to-Fine Covid-19 Segmentation via Vision-Language Alignment“* is accepted by ICASSP 2023 [Paper](https://arxiv.org/abs/2303.00279) and [Code](https://github.com/HUANGLIZI/C2FVL).
+[February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by ICASSP 2023.
 
 My work and research
 ======
