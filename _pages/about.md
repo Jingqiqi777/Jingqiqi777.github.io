@@ -16,7 +16,7 @@ Recent News
 ======
 * <span class='emoji'>🔥</span> [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by ACM MM 2023.
 * <span class='emoji'>🔥</span> [July 2023] One papers is accepted by ICCV 2023.
-* <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging(TMI).
+* <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging (TMI).
 * <span class='emoji'>🔥</span> [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
 * <span class='emoji'>🔥</span> [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are early accepted by MICCAI 2023.
 * [May 2023] One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
