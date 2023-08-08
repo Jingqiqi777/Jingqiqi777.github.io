@@ -14,11 +14,11 @@ My research focuses on computer vision, self-supervised learning, medical image 
 
 Recent News
 ======
-* <font color="red">[Aug 2023]</font> Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by ACM MM 2023.
-* <font color="red">[July 2023]</font> One papers is accepted by ICCV 2023.
-* <font color="red">[June 2023]</font> Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging(TMI).
-* <font color="red">[May 2023]</font> We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
-* <font color="red">[May 2023]</font> Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are early accepted by MICCAI 2023.
+* :fire: [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by ACM MM 2023.
+* :fire: [July 2023] One papers is accepted by ICCV 2023.
+* :fire: [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging(TMI).
+* :fire: [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
+* :fire: [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are early accepted by MICCAI 2023.
 * [May 2023] One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
 * [February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by ICASSP 2023.
