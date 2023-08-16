@@ -19,7 +19,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 * [J1] Qingqi Hong, Lingli Lin, **Zihan Li**, et al. A distance transformation deep forest framework with hybrid-feature fusion for CXR image classification. IEEE Transactions on Neural Networks and Learning Systems. (IF: 14.255) [Paper](https://ieeexplore.ieee.org/abstract/document/10145798)
 * [J2] **Zihan Li**, Yunxiang Li, Qingde Li, Puyang Wang, Dazhou Guo, Le Lu, Dakai Jin, et al. LViT: language meets vision transformer in medical image segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Paper](https://arxiv.org/abs/2206.14718)
 * [J3] Yunxiang Li, **Zihan Li**, Kai Zhang, Ruilong Dan, You Zhang. ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge. Cureus. [Paper](https://arxiv.org/abs/2303.14070)
-* [J4] **Zihan Li\***, Yuan Zheng\*, Dandan Shan, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Major Revision]
+* [J4] **Zihan Li**, Yuan Zheng, Dandan Shan, Shuzhou Yang, Qingde Li, Beizhan Wang, Yuanting Zhang, Qingqi Hong, Dinggang Shen. ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. IEEE Transactions on Medical Imaging. (IF: 11.037) [Major Revision]
 
 **2022**
 * [C1] **Zihan Li**, Dihan Li, Cangbai Xu, Weice Wang, Qingqi Hong, Qingde Li, Jie Tian. TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation. International Conference on Artificial Neural Networks. Springer, Cham, 2022. [Oral](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_65)
