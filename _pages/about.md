@@ -18,14 +18,14 @@ Recent News
 * <span class='emoji'>🔥</span> [July 2023] One papers is accepted by ICCV 2023.
 * <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging (TMI).
 * <span class='emoji'>🔥</span> [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
-* <span class='emoji'>🔥</span> [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are early accepted by MICCAI 2023.
+* <span class='emoji'>🔥</span> [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are accepted by MICCAI 2023 as Oral Presentation.
 * [May 2023] One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
 * [February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by ICASSP 2023.
 
 My work and research
 ======
-My current works focus on the multimodal learning, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI for Underrepresentation in medical field. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://lelu007.github.io/), and I have collaborated with them on many works.
+My current works focus on the multimodal learning, including natural language and radiology reports. At the same time, I pay attention to the corner case datasets to alleviate AI for Underrepresentation in medical field. Several respected professors have guided my research, including Prof. [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/), Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=EN), Prof. [Jie Tian](http://www.mitk.net.cn/tian/), Dr. [Le Lu](https://www.cs.jhu.edu/~lelu/), and I have collaborated with them on many works.
 
 My background and history
 ======
