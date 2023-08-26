@@ -35,7 +35,7 @@ Work experience
 Service and leadership
 ======
 * Conference Reviewer: ICCV 2023, ICASSP 2023, MICCAI 2023, ICIG 2023, AAAI 2022, ACM MM 2022
-* Journal Reviewer: IEEE Transactions on Medical Imaging, Machine Vision And Applications
+* Journal Reviewer: IEEE TPAMI, IEEE TMI, Machine Vision And Applications
 * Guest Speaker: Study Abroad Foundation (SAF), MIT Blended Learning Program
 
 Honors and Awards
