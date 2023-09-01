@@ -29,7 +29,7 @@ My current works focus on the multimodal learning, including natural language an
 
 My background and history
 ======
-I am pursuing my Ph.D. degree from University of Washington and I received my Master Degree from University of Illinois at Urbana-Champaign (UIUC) and received Bachelor Degree from Xiamen University.
+I am pursuing my Ph.D. degree from [University of Washington](https://www.washington.edu/) and I received my Master Degree from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/) and received Bachelor Degree from [Xiamen University](https://en.xmu.edu.cn/main.htm).
 
 <div align="center">
     <div align="center">
