@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle, advised by Prof. [Paul Kinahan](https://rad.washington.edu/radiology-personnel/kinahan/) (FIEEE, FAAPM, FSNMMI, FAIMBE). And I received my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
 
-My research focuses on Large Multimodal Model, self-supervised learning, medical image analysis, and vision-language model. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
+My research focuses on Large Multimodal Models (LMM) including vision-language model, self-supervised learning, and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
 Recent News
 ======
