@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ/), Dr. [Diping Song](https://www.semanticscholar.org/author/Diping-Song/27062648/)
+* June 2023 - Sept 2023: Research Intern. Supervisor: Prof. [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ), Dr. [Diping Song](https://www.semanticscholar.org/author/Diping-Song/27062648/)
   * Shanghai AI Laboratory
   * Research: Multimodal Large Language Model (MLLM) for medical image and diagnostic report.
 
