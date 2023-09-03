@@ -10,18 +10,18 @@ redirect_from:
 
 Hi! I’m Zihan, an incoming Ph.D. student at [University of Washington](https://www.washington.edu/), Seattle, advised by Prof. [Paul Kinahan](https://rad.washington.edu/radiology-personnel/kinahan/) (FIEEE, FAAPM, FSNMMI, FAIMBE). And I received my Master degree from the [Department of Computer Science](https://cs.illinois.edu/), [UIUC](https://illinois.edu/) in 2023. 
 
-My research focuses on Large Multimodal Models (LMM) including vision-language model, self-supervised learning, and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
+My research focuses on Large Multimodal Model (LMM) including vision-language model, self-supervised learning, and medical image analysis. I am committed to helping doctors or researchers carry out quantitative analysis and treatment planning for tissues and organs of the human body by combining deep learning with medical images.
 
 Recent News
 ======
-* <span class='emoji'>🔥</span> [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by ACM MM 2023.
-* <span class='emoji'>🔥</span> [July 2023] One papers is accepted by ICCV 2023.
-* <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by IEEE Transactions on Medical Imaging (TMI).
+* <span class='emoji'>🔥</span> [Aug 2023] Our work [ScribbleVC](https://github.com/HUANGLIZI/ScribbleVC) is accepted by [ACM MM 2023](https://www.acmmm2023.org/).
+* <span class='emoji'>🔥</span> [July 2023] One papers is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
+* <span class='emoji'>🔥</span> [June 2023] Our work [LViT](https://github.com/HUANGLIZI/LViT) is accepted by [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 * <span class='emoji'>🔥</span> [May 2023] We release the first Medical LLM [ChatDoctor](https://github.com/kent0n-li/chatdoctor) and its [huggingface repo](https://huggingface.co/zl111/ChatDoctor).
 * <span class='emoji'>🔥</span> [May 2023] Two papers ([SwinMM](https://github.com/UCSC-VLAA/SwinMM), CorSegRec) are accepted by MICCAI 2023 as Oral Presentation.
-* [May 2023] One paper is accepted by IEEE TNNLS (2022 IF: 14.255/Q1).
+* [May 2023] One paper is accepted by [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 * [May 2023] Awarded the Conference Presentation Award for Graduate Students by UIUC!
-* [February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by ICASSP 2023.
+* [February 2023] Congrats to Dandan! Our Work [C2FVL](https://github.com/HUANGLIZI/C2FVL) is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
 
 My work and research
 ======
