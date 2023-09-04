@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 {% if author.googlescholar %}
 {% endif %}
-You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) profile.
+You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?hl=en&user=KoY6bW8AAAAJ) or [Semantic Scholar](https://www.semanticscholar.org/author/Zihan-Li/2118273929) profile.
 
 **2023**
 * [C1] Fei Xu, **Zihan Li**, Qingqi Hong, Qingqiang Wu, Qingde Li, Jie Tian. SemiCTrans: Semi-Supervised Medical Image Segmentation Framework combining CNN and Transformer. Asia Pacific Bioinformatics Conference 2023. [Oral]
