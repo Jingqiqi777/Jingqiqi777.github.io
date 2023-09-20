@@ -5,13 +5,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihan Li"
+title                    : "Jingqi Qi"
 title_separator          : "-"
-name                     : &name "Zihan Li"
+name                     : &name "Jingqi Qi"
 description              : &description "personal description"
-url                      : "https://huanglizi.github.io"
+url                      : "https://Jingqiqi777.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HUANGLIZI/HUANGLIZI.github.io"
+repository               : "Jingqiqi777/Jingqiqi777.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihan Li"
+  name             : "Jingqi Qi"
   avatar           : "profile_3.png"
   bio              : "I am studying for my Ph.D. degree in UW, and my research focuses on medical image analysis."
   location         : "Seattle, WA"
